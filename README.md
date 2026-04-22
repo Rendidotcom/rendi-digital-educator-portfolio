@@ -39,7 +39,7 @@ A student publishing platform designed to enhance writing skills and digital lit
 - Deployment: Vercel  
 - Outcome: Students publish and reflect on their work  
 
-👉 Live Demo: https://your-vercel-link.vercel.app  
+👉 Live Demo: blog-rendi.vercel.app/
 
 ---
 
