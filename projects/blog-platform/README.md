@@ -55,6 +55,27 @@ Actively used in classroom (Grade 7)
 ---
 
 ## 👤 Author
+---
 
+## 📸 Preview
+
+![Blog Preview](../../assets/blog-preview.png)
+
+---
+
+## 📊 Real Usage
+
+- Used in Grade 7 classroom
+- 100+ students involved
+- Weekly publishing activity
+
+---
+
+## 🔥 Measurable Result
+
+- Higher assignment completion rate
+- Students write more consistently
+- Increased ownership of learning output
+  
 Rendi Holis  
 Digital Educator & System Builder
