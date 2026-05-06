@@ -1,170 +1,124 @@
-# EduFlow CMS — AI-Powered Content System for Educators
+# Rendi Holis — Digital Educator & System Builder
 
-EduFlow CMS is a lightweight system that enables educators to publish learning content directly from DOCX files into a structured blog—automatically.
-
----
-
-## 🚀 Core Idea
-
-Teachers should not waste time on formatting and manual publishing.
-
-EduFlow transforms this workflow into a simple system:
-
-Upload → Convert → Extract → Store → Publish
-
----
-
-## ⚙️ System Workflow
-
-1. Upload `.docx` file
-2. Auto convert to Google Docs
-3. Extract title & content
-4. Sync to Google Sheets (database)
-5. Publish via Blog API
-
----
-
-## 🧩 Tech Stack
-
-* Google Apps Script (Backend API)
-* Google Drive API (File conversion)
-* Google Sheets (Database)
-* Vercel (Frontend deployment)
-* AI Tools (content support)
-
----
-
-## 🎯 Use Case
-
-A teacher uploads a lesson plan or material →
-The system automatically converts it into a published blog post.
-
----
-
-## 📊 Impact
-
-**Before:**
-
-* Manual copy-paste
-* Formatting inconsistencies
-* Time-consuming publishing
-
-**After:**
-
-* One-click publish
-* Structured and consistent content
-* Automated workflow
-
----
-
-## 📁 Main Project
-
-📂 `/projects/eduflow-cms`
-Contains:
-
-* Apps Script backend
-* API logic
-* Content processing system
-
----
-
-## 🔥 Status
-
-Production-ready (used in real classroom environment)
-
----
-
----
-
-# Rendi Holis — Digital Educator Portfolio
-
-I am an educator building learning systems by integrating **AI, web development, and Project-Based Learning (PBL)** to create meaningful, student-centered classrooms.
+I design and implement real classroom systems by integrating **AI, automation, and web-based learning** to create structured, student-centered environments.
 
 ---
 
 ## 🌍 Overview
 
-This portfolio showcases my work in designing a **structured digital learning ecosystem** where students become active creators, not passive learners.
+This portfolio represents a shift from traditional teaching into **system-driven education**.
+
+Instead of managing learning manually, I build systems that:
+
+- Automate repetitive tasks  
+- Structure student learning outputs  
+- Improve accountability and visibility  
 
 ---
 
-## 🔍 Key Focus
+## 🧠 Core Approach
 
-* AI in Education (Gemini)
-* Web-based Learning Projects (Vercel)
-* Student Accountability Systems
-* Project-Based Learning (PBL)
+All systems are designed using a simple framework:
 
----
+**Input → Process → Output → Impact**
 
-## 🧠 Learning Approach
-
-Input → Process → Output → Impact
-
-* **Input**: Learning tasks and assignments
-* **Process**: AI-assisted learning + PBL + reflection
-* **Output**: Student blogs, projects, and written work
-* **Impact**: Increased engagement and accountability
+- **Input**: Tasks, materials, assignments  
+- **Process**: AI + automation + structured workflow  
+- **Output**: Student-generated content (blogs, projects)  
+- **Impact**: Measurable improvement in engagement & completion  
 
 ---
 
-## 🚀 Featured Systems
+## 🚀 Featured System
 
-### 1. EduFlow CMS (Main System)
+### 🔥 EduFlow CMS — AI-Powered Content System
 
-Automated DOCX → Blog publishing system
+A real classroom system that transforms DOCX files into structured blog content automatically.
 
-* Converts files into structured content
-* Syncs with database automatically
-* Publishes to web platform
+#### ⚙️ Workflow
+
+Upload → Convert → Extract → Store → Publish
+
+#### 🧩 Architecture
+
+- Google Drive → Content input  
+- Apps Script → Automation engine  
+- Google Sheets → Data layer  
+- Blog (HTML + Vercel) → Output  
+
+#### 📊 Impact
+
+**Before:**
+- Manual copy-paste  
+- Unstructured content  
+- Time-consuming publishing  
+
+**After:**
+- Automated publishing  
+- Structured learning content  
+- Scalable workflow  
+
+👉 Live Demo: http://blog-rendi.vercel.app  
 
 ---
 
-### 2. Student Assignment Tracking System
+## 🧩 Supporting Systems
 
-A system to monitor and improve student accountability.
+### 📊 Student Assignment Tracking System
 
-* Used in Grade 7 (100+ students)
-* Detects missing assignments
-* Supports teacher decision-making
+A monitoring system to improve student accountability.
+
+- Tracks missing assignments  
+- Used in Grade 7 (100+ students)  
+- Supports teacher intervention  
 
 ---
 
-### 3. AI Integration in Learning
+### 🤖 AI Integration in Learning
 
 Use of AI tools (Gemini) to support:
 
-* Student writing
-* Reflection
-* Idea generation
+- Student writing  
+- Reflection  
+- Idea generation  
 
 ---
 
-## 📊 Impact in Classroom
+## 📸 System Evidence
 
-* Increased student engagement
-* Improved task completion rates
-* Students become creators, not just consumers
+*(Add real screenshots in /assets)*
+
+- Google Drive (input system)  
+- Google Sheets (tracking & database)  
+- Blog output (published content)  
+
+---
+
+## 📊 Classroom Impact
+
+- Increased student engagement  
+- Improved task completion rates  
+- Students become creators, not consumers  
 
 ---
 
 ## 🎓 Certifications
 
-* Gemini Certified (AI for Education)
-* Samsung Certified Educator
+- Gemini Certified (AI for Education)  
+- Samsung Certified Educator  
 
 ---
 
 ## 🌱 Vision
 
-To build scalable, technology-driven learning systems where students actively create, reflect, and grow.
+To build scalable, automation-driven learning systems that transform classrooms into **production environments**, not just instruction spaces.
 
 ---
 
 ## 📬 Contact
 
-* Email: [rendi.nurholis@salman-alfarisi.sch.id](mailto:rendi.nurholis@salman-alfarisi.sch.id)
-* GitHub: https://github.com/Rendidotcom
+- Email: rendi.nurholis@salman-alfarisi.sch.id  
+- GitHub: https://github.com/Rendidotcom  
 
 ---
 
