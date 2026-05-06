@@ -14,33 +14,37 @@ To enhance student thinking and productivity using AI as a learning partner, not
 
 Students use AI to:
 
-- Generate ideas for writing
-- Improve sentence structure
-- Reflect on their learning
-- Get feedback on their work
+- Generate ideas for writing  
+- Improve sentence structure  
+- Reflect on their learning  
+- Get feedback on their work  
 
 ---
 
 ## 📊 Real Usage
 
-- Used in Grade 7 classroom
-- Integrated into writing and reflection tasks
-- Students guided on responsible AI usage
+- Used in Grade 7 classroom  
+- Integrated into writing and reflection tasks  
+- Students guided on responsible AI usage  
 
 ---
 
-## 📸 Example
+## 📸 Example (AI-Supported Learning Process)
 
-![AI Learning](../../assets/ai-learning.png)
+Step 1 — Student uses AI (Gemini) to generate ideas  
+Step 2 — Student reviews and revises the AI output  
+Step 3 — Student produces final work based on their own understanding  
+
+![Student Work](../../assets/ai-learning.png)
 
 ---
 
 ## 🔥 Result
 
-- Students generate ideas faster
-- Improved writing clarity
-- Increased confidence in expressing thoughts
-- Better reflection quality
+- Students generate ideas faster  
+- Improved writing clarity  
+- Increased confidence in expressing thoughts  
+- Better reflection quality  
 
 ---
 
@@ -49,9 +53,10 @@ Students use AI to:
 AI is used as a support tool, not a replacement for thinking.
 
 Students are trained to:
-- Validate AI output
-- Rewrite in their own words
-- Reflect critically
+
+- Validate AI output  
+- Rewrite in their own words  
+- Reflect critically  
 
 ---
 
