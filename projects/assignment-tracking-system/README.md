@@ -54,5 +54,27 @@ Used in real classroom environment
 ---
 
 ## 👤 Author
+---
 
+## 📊 Real Usage
+
+- Used in Grade 7 classroom
+- Tracks 100+ students
+- Monitors assignment completion
+
+---
+
+## 📸 Preview
+
+![Tracking System](../../assets/tracking-system.png)
+
+---
+
+## 🔥 Result
+
+- Easier to detect missing assignments
+- Faster teacher decision-making
+- Improved student accountability
+
+  
 Rendi Holis
